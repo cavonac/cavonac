@@ -2,7 +2,7 @@
 Welcome to my GitHub profile's README
 
 # Introduction
-I am a seasoned professional with over a decade of experience in software product development, specializing in quality assurance and solution creation. With a passion for innovation, he actively explores the realms of AI, Azure Development, and team leadership. My journey is marked by a diverse skill set, ranging from his proficiency in operating systems like MS-DOS and various Windows versions to his adeptness in managing networking setups, including LANs, WiFi, and secure gateways.
+I am a seasoned professional with over a decade of experience in software product development, specializing in quality assurance and solution creation. With a passion for innovation, I actively explore the realms of AI, Azure Development, and team leadership. My journey is marked by a diverse skill set, ranging from a proficiency in operating systems like UNIX to Windows Datacenter to an adeptness in managing networking setups, including LANs, WiFi, and secure gateways.
 
 # Accomplishments
 Here are some of my accomplishments as a software developer (SDE) or software developer in test (SDET) at Microsoft and beyond:
