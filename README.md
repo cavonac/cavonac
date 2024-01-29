@@ -2,7 +2,7 @@
 Welcome to my GitHub profile's README
 
 # Introduction
-I am a seasoned professional with over a decade of experience in software product development, specializing in quality assurance and solution creation. With a passion for innovation, I actively explore the realms of AI, Azure Development, and team leadership. My journey is marked by a diverse skill set, ranging from a proficiency in operating systems like UNIX to Windows Datacenter to an adeptness in managing networking setups, including LANs, WiFi, and secure gateways.
+I am a seasoned Information Technology professional with over a decade of experience in software product development, specializing in quality assurance and solution creation. With a passion for innovation, I actively explore the realms of AI, Azure Development, and team leadership. My journey is marked by a diverse skill set, ranging from a proficiency in operating systems like UNIX to Windows Datacenter to an adeptness in managing networking setups, including LANs, WiFi, and secure gateways.
 
 # Accomplishments
 Here are some of my accomplishments as a software developer (SDE) or software developer in test (SDET) at Microsoft and beyond:
@@ -15,7 +15,7 @@ Here are some of my accomplishments as a software developer (SDE) or software de
 - Authored technical documentation and articles, sharing expertise with the community.
 - Mentored junior team members, fostering their professional growth and development.
 
-# 
+# Freelance and Beyond
 Beyond my professional endeavors, my expertise extends into the realm of cybersecurity, where I once discovered and neutralized a mIRC client Trojan virus, showcasing his dedication to channel security and proactive problem-solving. My freelance ventures reflect a multifaceted individual, adept at setting up encrypted communication systems for both military and civilian applications while also weaving captivating narratives in the realms of science fiction and fantasy through my blog, "Eclipse Drift: Cosmic Odyssey." With a firm commitment to excellence and a thirst for knowledge, I try to carve a path of impact and innovation in the tech landscape.
 
 Here are some other interesting things about me:
