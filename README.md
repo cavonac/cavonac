@@ -16,7 +16,7 @@ Here are some of my accomplishments as a software developer (SDE) or software de
 - Mentored junior team members, fostering their professional growth and development.
 
 # Freelance and Beyond
-Beyond my professional endeavors, my expertise extends into the realm of cybersecurity, where I once discovered and neutralized a mIRC client Trojan virus, showcasing my dedication to channel security and proactive problem-solving. My freelance ventures reflect a multifaceted individual, adept at setting up encrypted communication systems for both military and civilian applications while also weaving captivating narratives in the realms of science fiction and fantasy through my blog, [Eclipse Drift: Cosmic Odyssey](https://eclipsedrift.blogspot.com/). With a firm commitment to excellence and a thirst for knowledge, I try to carve a path of impact and innovation in the tech landscape.
+Outside of my professional pursuits, I delve into cybersecurity as an amateur bug bounty hunter for [BugCrowd](https://www.bugcrowd.com), where I've received awards for disclosing high-priority issues. Additionally, I indulge my passion for storytelling through my blog, [Eclipse Drift: Cosmic Odyssey](https://eclipsedrift.blogspot.com/), crafting narratives in the realms of science fiction and fantasy.
 
 Here are some other interesting things about me:
 
