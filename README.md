@@ -16,7 +16,7 @@ Here are some of my accomplishments as a software developer (SDE) or software de
 - Mentored junior team members, fostering their professional growth and development.
 
 # Freelance and Beyond
-Outside of my professional pursuits, I delve into cybersecurity as an amateur bug bounty hunter for [BugCrowd](https://www.bugcrowd.com), where I've received awards for disclosing high-priority issues. Additionally, I indulge my passion for storytelling through my blog, [Eclipse Drift: Cosmic Odyssey](https://eclipsedrift.blogspot.com/), crafting narratives in the realms of science fiction and fantasy.
+Outside of my professional pursuits, I delve into cybersecurity as an amateur bug bounty hunter for [BugCrowd](https://www.bugcrowd.com), where I've received awards for disclosing high-priority issues. Additionally, I indulge my passion for storytelling through my blog, [Eclipse Drift: Cosmic Odyssey](https://eclipsedrift.blogspot.com/), crafting narratives in the realms of science fiction and fantasy. I also enjoy using my gaming PC for online games or taking out a tabletop game or puzzle for offline fun.
 
 Here are some other interesting things about me:
 
