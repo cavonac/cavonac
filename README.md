@@ -1,26 +1,44 @@
-### Hello, world! 👋
-Welcome to my GitHub profile's README
+# 👋 Hi, I'm Christopher Canova
 
-# Introduction
-I possess over a 15+ years of expertise in Information Technology, honed through diverse experiences in software product development. My specialization lies in quality assurance and creating innovative solutions. I have delved into various areas, including AI machine learning, Azure Development, and cybersecurity. From coding to managing datacenters, my journey reflects a broad spectrum of technical skills.
+Senior software engineer with 20+ years in software — from blade-server validation on the hardware floor to AI infrastructure in the cloud.
 
-# Accomplishments
-Here are some of my accomplishments as a software developer (SDE) or software developer in test (SDET) at Microsoft and beyond:
-- Developed and deployed scalable solutions on Azure
-- Led cross-functional teams to deliver high-impact projects on time and within budget.
-- Spearheaded AI integration initiatives, resulting in an increase in automation.
-- Identified and resolved critical issues, improving product quality and customer satisfaction.
-- Contributed to open-source projects, collaborating with global developers to drive innovation.
-- Received recognition for outstanding problem-solving skills and dedication to team success.
-- Authored technical documentation and articles, sharing expertise with the community.
-- Mentored junior team members, fostering their professional growth and development.
+He/Him · Redmond, Washington
 
-Here are some other interesting things about me:
+## What I do
 
-- 🔭 I’m currently working on writing short stories online, contributing sample code to GitHub, and likely learning about my latest obsession.
-- 🌱 I’m currently learning to run local models using Hermes
-- 👯 I’m looking to collaborate on Artificial Intelligence (ML, NLP, LLM, GPT), Software Development, Software Testing, Mentoring/Mentorship.
-- 🤔 I’m looking for help with finding meaningful work that will beneficially impact society for years to come.
-- 💬 Ask me about what books I like to read.
-- 📫 How to reach me: cavonac@pm.me
-- 😄 Pronouns: He/Him.
+- **AI & cloud infrastructure** — most recently Azure Cloud Infrastructure Engineer on Microsoft's Model Scaling Platform (2024–2026): GPU infrastructure for serving ML models on Azure ML, deployment automation, production model rollouts
+- **Quality & test automation** — SDET roots: test frameworks, CI/CD, UAT delivery; led ~8 quality analysts embedded across 4–5 product teams
+- **Breadth** — from coding to managing datacenters: .NET, Python, TypeScript/Node, Azure, SQL, Kusto
+
+## Highlights
+
+- Helped launch **o1 and o1-mini** on Azure OpenAI Service in ~1 week — third-party customers onboarded pre-announcement
+- Deployed **300+ ML model pools** in the first ~6 months; cut buildout ticket turnaround from days to hours
+- Built **20+ test suites / 200+ tests** validating Azure's Data Science Virtual Machine
+- Validated **petabyte-scale** relational data pipelines (big data, ML, pattern recognition)
+- 🏆 1st place, Health 2.0 Coding Challenge (SMS prescription-info app)
+
+## Stack
+
+C# / .NET · Python · TypeScript / JavaScript / Node.js · PowerShell · SQL / T-SQL · Azure (ML, DevOps, IoT, Cosmos) · Jupyter · KQL / Kusto · CI/CD · Git
+
+## Learning & building now
+
+- Running local LLMs with Hermes
+- Writing short stories online
+- Contributing sample code to GitHub
+
+## Open to collaborate on
+
+AI/ML (NLP, LLMs) · software development · software testing · mentoring — and looking for meaningful work that benefitfully impacts society for years to come.
+
+## Background
+
+BS Information Technology (2006) · Microsoft Certified: Azure AI Fundamentals (2023) · Azure Fundamentals AZ-900 (2022) · PentesterLab
+
+## Contact
+
+- 📧 canovac@gmail.com
+- 📮 cavonac@pm.me
+- 💼 linkedin.com/in/canovac
+- 💬 Ask me about what books I like to read
