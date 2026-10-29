@@ -14,6 +14,7 @@ He/Him · Redmond, Washington
 
 - Helped launch **o1 and o1-mini** on Azure OpenAI Service in ~1 week — third-party customers onboarded pre-announcement
 - Deployed **300+ ML model pools** in the first ~6 months; cut buildout ticket turnaround from days to hours
+- Cut Azure cloud spend by an estimated **$150K–$300K** — built a scan + playbook to retire idle subscriptions and resources
 - Built **20+ test suites / 200+ tests** validating Azure's Data Science Virtual Machine
 - Validated **petabyte-scale** relational data pipelines (big data, ML, pattern recognition)
 - 🏆 1st place, Health 2.0 Coding Challenge (SMS prescription-info app)
